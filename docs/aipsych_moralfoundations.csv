@@ -1,0 +1,31 @@
+﻿framework,label,definition
+maladaptive,Excitable,"Moody and hard to please, with intense but short-lived enthusiasms for people and projects. High scorers are sensitive to criticism, volatile, and unable to generate respect from subordinates due to frequent emotional displays."
+maladaptive,Skeptical,"Cynical, distrustful, and quick to doubt others’ true intentions. While acutely sensitive to organizational politics, high scorers are easily of fended, argumentative, and ready to retaliate for perceived mistreatment."
+maladaptive,Cautious,"Reluctant to take risks or initiative due to fear of failure or criticism. High scorers are good “corporate citizens” but avoid innovation, offering opinions, taking controversial positions, or making decisions."
+maladaptive,Reserved ,"Aloof, detached, uncommunicative, and disinterested in the feelings of others. High scorers work poorly in groups, are reluctant to give feedback, are insensitive to social cues, and often appear intimidating."
+maladaptive,Leisurely,"Independent, resistant to feedback, and quietly resentful of interruption or others’ requests. High scorers can be pleasant but difficult to work with due to procrastination, stubbornness, and unwillingness to be part of a team."
+maladaptive,Bold ,"Unusually self-confident, reluctant to admit shortcomings, and grandiose in expectations. High scorers feel entitled to special treatment, are reluctant to share credit, and can be demanding, opinionated, and self-absorbed."
+maladaptive,Mischievous,"Charming and friendly, but impulsive, non-conforming, manipulative, and exploitive. High scorers test limits, ignore commitments, take ill-advised risks, and resist accepting responsibility for mistakes."
+maladaptive,Colorful ,"Expressive, dramatic, distractible, attention seeking, and disorganized. High scorers confuse activity with productivity, are unable to allow others to offer suggestions, and are intuitive rather than strategic in decision making."
+maladaptive,Imaginative,"Creative, eccentric, impractical, and idiosyncratic in thoughts and ideas. High scorers avoid details, are easily bored, lack awareness of their impact on others, and often fail to see the practical limitations of their suggestions."
+maladaptive,Diligent,"Meticulous, perfectionistic, critical, and inflexible about rules and procedures. High scorers micromanage their staff, find it hard to delegate, and have difficulty setting meaningful priorities for themselves and their subordinates."
+maladaptive,Dutiful ,"Eager to please, reliant on others for guidance, and reluctant to take action independently. High scorers have difficulty making decisions on their own, may not stick up for subordinates, and promise more than they can deliver."
+typical,Extraversion," Warmth, Gregariousness, Assertiveness, Activity, Excitement Seeking, Positive Emotions."
+typical,Agreeableness,"Trust, Straightforwardness, Altruism, Compliance, Modesty, Tender-Mindedness."
+typical,Conscientiousness,"Competence, Order, Dutifulness, Achievement Striving, Self-Discipline, Deliberation."
+typical,Neuroticism,"Anxiety, Angry Hostility, Depression, Self Consciousness, Impulsivenes, Vulnerability."
+typical,Openness,"Fantasy, Aesthetics, Feelings, Actions, Ideas, Values."
+values,Security/Stability,"The stability of their job, rather than its specifics. They prioritize career benefits, tenure and secure employment. "
+values,General Managerial Competence,Motivated by complex problems and search for possible solutions. They need to demonstrate good interpersonal and analytical skills and emotional stability to succeed.
+values,Autonomy/Independence,A strong preference for freedom; they are concerned with self-development and find organizations too limiting to work in. 
+values,Technical/Functional Competence,Motivated by the function and the challenges of their job. They may sacrifice promotions that would require a move from their area of expertise. 
+values,Entrepreneurial Creativity,Primarily concerned with the invention and creation of something new. They prefer to be independent and may be good at influencing others. 
+values,Lifestyle,"Individuals are motivated by the work-life balance. They weight and make their career decisions based on family issues, such as maternity leaves or relocation. "
+values,Pure Challenge,Persons are driven by obstacles and the need to overcome impossible challenges. They are mostly concerned with winning and being ahead of others. 
+values,Service and Dedication to a Cause,Individuals are driven by the desire to help the world and society. They choose jobs which are strongly aligned to their values and vision of a meaningful career.
+moral,Care/Harm,Caring and compassion toward others' suffering contrasted; with indifference or acceptance of harm if it is in pursuit of business goals.
+moral,Fairness/Cheating,Commitment to fairness and proportionality in dealings with others; contrasted with comfort with exploitation or uneven application of standards.
+moral,Loyalty/Betrayal,"Loyalty, patriotism, and self-sacrifice toward one’s group; contrasted with indifference to group ties or little concern with disloyalty."
+moral,Authority/Subversion,Obedience and deference toward legitimate authority and traditions; contrasted with skepticism of authority or comfort with challenging established norms.
+moral,Sanctity/Degradation,Respect for what is considered pure or noble; contrasted with indifference or disregard toward those standards.
+moral,Liberty / Opression,Respect for autonomy and aversion toward excessive control; contrasted with willingness to dominate others and restrict their legitimate freedoms.
