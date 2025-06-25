@@ -1,1 +1,1 @@
-# interactive-charts
+Everything on https://psychometrics.ai is shared under a Creative Commons Attribution-NonCommercial 4.0 International License. You're very welcome to use the ideas, methods, and tools in your own work, whether that’s product development, internal tools, client services, or research. All I ask is that you don’t sell or repackage this content as-is, and you credit psychometrics.ai when using it: Guenole, N. (2025). Psychometrics.ai: AI for Psychological Measurement. https://psychometrics.ai. 
