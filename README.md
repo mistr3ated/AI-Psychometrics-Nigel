@@ -1,4 +1,4 @@
-AI for Psychological Measurement
+**AI for Psychological Measurement**
 
 This repository contains deep learning experiments associated with my evolving book on AI for psychological measurement, available for free at https://psychometrics.ai. I have used AI assistance to better understand deep learning models that I explain how to use in psychological measurement contexts. 
 
