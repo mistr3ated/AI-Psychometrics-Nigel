@@ -3,7 +3,7 @@ AI for Psychological Measurement
 This repository contains deep learning experiments associated with my evolving book on AI for psychological measurement, available for free at https://psychometrics.ai. I have used AI assistance to better understand deep learning models that i show how to use in psychological measurement contexts. 
 
 So far, the repo includes:
-- Code for new psychometric methods i have proposed with colleagues including **Pseudo-Factor-Analysis** and **Convex Hulls for LLMs**
+- New methods i have proposed including **Semantic Item Alignment**, **Pseudo-Factor-Analysis** and **Convex Hulls for LLMs**
 - A **decoupled reconstruction of a MiniLM encoder**,
 - A **decoupled reconstruction of the GPT-2 small decoder**,
 - The code for **Seedling**.
