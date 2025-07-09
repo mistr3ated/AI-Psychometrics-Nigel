@@ -1,8 +1,13 @@
-AI for Psychological Measurement
+Artificial Intelligence (A.I) for Psychological Measurement
 
-This repository contains deep learning experiments associated with my evolving book on AI for psychological measurement, available for free at https://psychometrics.ai. I have used AI assistance to better understand deep learning models that i show how to use in psychological measurement contexts. So far, the repo contains a deocoulped reconstruction of a MiniLM encoder, a decoupled reconstruction of a the GPT-2 small decoder. and the code for **Seedling**.
+This repository contains deep learning experiments associated with my evolving book on AI for psychological measurement, available for free at https://psychometrics.ai. I have used AI assistance to better understand deep learning models that i show how to use in psychological measurement contexts. 
 
-**Seedling** is a coded-from-scatch with AI assistance GPT-2 style 50 million parameter LLM. You can read about its architecture and the experience of coding this up at the book website. The name Seedling reflect the inchoate state of this model )loss = 4.63), but also to say that with a bit of TLC this model will become more usable as an educational demo for psychologists. The code is in a sinle .py file so next steps may include modularizing and growing the archticture and data exposure.
+So far, the repo includes:
+- **A deocoulped reconstruction of a MiniLM encoder,**
+- **A decoupled reconstruction of a the GPT-2 small decoder.**
+- The code for **Seedling**.
+
+**Seedling** is a GPT-2–style, 50 million parameter LLM, coded from scratch with AI assistance. You can read more about its architecture and development process on the book's website. The name Seedling reflects both the early inchoate state of this model (loss = 4.63) and the hope that with a bit of TLC this model will become a strong educational resource for quantitative psychologists. While the loss is still high, the smaller model size and single-file design (with separate testing script) make it accessible. Next steps may include modularizing the code like Andrej Karpathy’s excellent examples, and expanding the architecture and data exposure.
 
 ![Seedling Loss](images/Seedling-loss-MeasureCo.ai.png)
 
