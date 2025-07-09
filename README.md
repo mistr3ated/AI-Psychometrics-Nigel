@@ -11,9 +11,9 @@ So far, the repo includes:
 
 ![Seedling Loss](images/Seedling-loss-MeasureCo.ai.png)
 
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-
 Everything here is shared under a Creative Commons Attribution-NonCommercial 4.0 International License. You're very welcome to use the ideas, methods, and tools in your own work, whether that’s product development, internal tools, client services, or research. All I ask is that you don’t sell or repackage this content as-is, and you credit psychometrics.ai when using it: Guenole, N. (2025). Psychometrics.ai: AI for Psychological Measurement. https://psychometrics.ai. 
+
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 
 
