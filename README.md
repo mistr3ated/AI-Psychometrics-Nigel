@@ -3,8 +3,8 @@ AI for Psychological Measurement
 This repository contains deep learning experiments associated with my evolving book on AI for psychological measurement, available for free at https://psychometrics.ai. I have used AI assistance to better understand deep learning models that i show how to use in psychological measurement contexts. 
 
 So far, the repo includes:
-- **A decoupled reconstruction of a MiniLM encoder,**
-- **A decoupled reconstruction of the GPT-2 small decoder.**
+- A **decoupled reconstruction of a MiniLM encoder,**
+- A **decoupled reconstruction of the GPT-2 small decoder.**
 - The code for **Seedling**.
 
 **Seedling** is a GPT-2–style, 50 million parameter LLM, coded from scratch in PyTorch with AI assistance. You can read more about its architecture and development process on the book's website. The name Seedling reflects both the early inchoate state of this model (loss = 4.63) and the hope that with a bit of TLC, this model will become a strong educational resource for quantitative psychologists. While the loss is still high, the smaller model size and single-file design (with separate testing script) make it accessible. Next steps may include modularizing the code like Andrej Karpathy’s excellent examples, and expanding the architecture and data exposure.
