@@ -11,7 +11,7 @@ So far, the repo includes:
 
 **Seedling** is a GPT-2–style, ~51 million parameter LLM, coded from scratch in PyTorch with AI assistance. You can read more about its architecture and development process on the book's website. The name Seedling reflects both the early inchoate state of this model (loss = 4.63) and the hope that with a bit of TLC, this model will become a strong educational resource for quantitative psychologists. While the loss is still high, the smaller model size and single-file design (with separate testing script) make it accessible. 
 
-Next steps could include modularizing the code like Andrej Karpathy’s excellent examples (altough the single script is acessible as a beginner) and trying optimizations. Potential optimziations might include adjusting the learning rate, attempting learning rate restarts, changing the vocab size to the nearest multiple of 64 after 50k to ensure tensor alignment, and expanding the architecture deeper (more layers) and wider (more dimensions), both with and without greater data exposure. These changes are feasible to try while maintaining the low budget.
+Next steps could include modularizing the code like Andrej Karpathy’s excellent examples (although the single script is accessible as a beginner) and trying optimizations. Potential optimziations might include adjusting the learning rate, attempting learning rate restarts, changing the vocab size to the nearest multiple of 64 after 50k to ensure tensor alignment, and expanding the architecture deeper (more layers) and wider (more dimensions), both with and without greater data exposure. These changes are feasible to try while maintaining the low budget.
 
 ![Seedling Loss](images/Seedling-loss-MeasureCo.ai.png)
 
