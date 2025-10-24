@@ -7,6 +7,7 @@ So far, the repo includes:
 - A **decoupled reconstruction of a MiniLM encoder**,
 - A **decoupled reconstruction of the GPT-2 small decoder**,
 - The code for **Seedling**.
+- **RAG item generation** using IPIP database for context injection (includes Re-ranking).
 
 **Seedling** is a GPT-2–style, ~51 million parameter LLM, coded from scratch in PyTorch with AI assistance. You can read more about its architecture and development process on the book's website. The name Seedling reflects both the early inchoate state of this model (loss = 4.63) and the hope that with a bit of TLC, this model will become a strong educational resource for quantitative psychologists. While the loss is still high, the smaller model size and single-file design (with separate testing script) make it accessible. 
 
