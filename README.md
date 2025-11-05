@@ -1,5 +1,7 @@
 **AI for Psychological Measurement**
 
+![MeasureCo-Book](https://github.com/user-attachments/assets/790d333b-2684-4f3b-b5d4-01c0584164ba)
+
 This repository contains deep learning experiments associated with my evolving book on AI for psychological measurement, available for free at https://psychometrics.ai. I have used AI assistance to better understand deep learning models that I explain how to use in psychological measurement contexts. 
 
 So far, the repo includes:
