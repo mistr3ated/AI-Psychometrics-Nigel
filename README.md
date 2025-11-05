@@ -1,4 +1,5 @@
-<img width="122" height="184" alt="Psychometrics" src="https://github.com/user-attachments/assets/c24e15f6-a066-4d37-81c9-757c62f759a6" />
+
+<img width="115" height="180" alt="MesureCo--email" src="https://github.com/user-attachments/assets/93576aed-66b1-4e62-acfd-c03e72a7e0fb" />
 
 I am a psychologist interested in how artificial intelligence can help improve psychometric assessment. This repository contains code from an evolving book about my experiences with AI for psychological measurement, available for free at https://psychometrics.ai. I have used AI assistance to better understand deep learning models that I explain how to use in psychological measurement contexts. 
 
