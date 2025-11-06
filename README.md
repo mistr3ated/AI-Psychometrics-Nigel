@@ -21,7 +21,7 @@ Licensing
 
 Book Content: The text, examples, and educational materials in this book are shared under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0). You're welcome to use the ideas, methods, and concepts in your own work, whether that's product development, internal tools, client services, or research. All I ask is that you don't sell or repackage this content as-is, and you credit psychometrics.ai when using it:
 
-Guenole, N. (2025). Psychometrics.ai: AI for Psychological Measurement. https://psychometrics.ai.
+Guenole, N. (2025). Psychometrics.ai: Transforming Behavioral Science with Machine Learning. https://psychometrics.ai.
 
 Software Code: All code examples, scripts, and software tools are licensed under the MIT License, allowing you to use, modify, and distribute them freely in both commercial and non-commercial projects.
 
