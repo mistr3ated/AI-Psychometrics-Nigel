@@ -10,6 +10,8 @@ So far, the repo includes:
 - The code for **Seedling**, an LLM coded from the ground up for education purposes.
 - **RAG item generation** using IPIP database for context injection (includes Re-ranking).
 - **Explainable AI (XAI)** permutation test example (see psychometrics.ai for XAI limitations with decoders)
+- **Ollama with gpt-oss-20b** for local item generation contributed by Michael John Ilagen and Carl Falk
+- **API LLM scoring of the Hewlett ASAP-SAS data** (replicates Q10 cell of Jiang & Bosch, 2024)
 
 **Seedling** is a GPT-2–style, ~51 million parameter LLM, coded from scratch in PyTorch with AI assistance. You can read more about its architecture and development process on the book's website. The name Seedling reflects both the early inchoate state of this model (loss = 4.63) and the hope that with a bit of TLC, this model will become a strong educational resource for quantitative psychologists. While the loss is still high, the smaller model size and single-file design (with separate testing script) make it accessible. 
 
