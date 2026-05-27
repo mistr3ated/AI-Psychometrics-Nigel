@@ -22,7 +22,7 @@ The pseudo invariance zip contains a demonstration of how to check measurement i
 
 ![Transformer Measurement Invariance](https://raw.githubusercontent.com/mistr3ated/AI-Psychometrics-Nigel/main/images/transformer_measurement_invariance.png)
 
-Licensing
+**Licensing**
 
 Book Content: The text, examples, and educational materials in this book are shared under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0). You're welcome to use the ideas, methods, and concepts in your own work, whether that's product development, internal tools, client services, or research. All I ask is that you don't sell or repackage this content as-is, and you credit psychometrics.ai when using it:
 
