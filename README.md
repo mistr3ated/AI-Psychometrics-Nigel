@@ -12,7 +12,8 @@ So far, the repo includes:
 - **Explainable AI (XAI)** permutation test example (see psychometrics.ai for XAI limitations with decoders)
 - **Ollama with gpt-oss-20b** for local item generation contributed by Michael John Ilagen and Carl Falk
 - **API LLM scoring of the Hewlett ASAP-SAS data** (replicates Q10 cell of Jiang & Bosch, 2024)
-- **Measurement invariance demonstration from embeddings**
+- **Intercepts** shown to be recoverable as dot product projections onto semantic intensity vectors
+- **Measurement invariance demonstration** shows you can check DIF using embeddings before data collection
 
 **NEW: Pseudo configural, metric, and scalar invariance from embeddings**
 The pseudo invariance zip contains a demonstration of how to check measurement invariance using embeddings. In particular, it shows that conceptually interpretable changes in item wording related to construct relevance and intesnity are detectable via constraint tests on loadings and interceps in mean and covariance structures analyses.
