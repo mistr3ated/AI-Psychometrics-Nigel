@@ -16,7 +16,7 @@ So far, the repo includes:
 - **Measurement invariance demonstration** shows you can check DIF using embeddings before data collection
 
 **NEW: Pseudo configural, metric, and scalar invariance from embeddings**
-The pseudo invariance zip contains a demonstration of how to check measurement invariance using embeddings. In particular, it shows that conceptually interpretable changes in item wording related to construct relevance and intensity are detectable via constraint tests on loadings and interceps in mean and covariance structures analyses.
+The pseudo invariance zip contains a demonstration of how to check measurement invariance using embeddings. In particular, it shows that conceptually interpretable changes in item wording related to construct relevance and intensity are detectable in the item residuals via constraint tests on loadings and intercepts in mean and covariance structures analyses. Fit statistics based on sample size cannot be used because there is no sample of respondents under these methods.
 
 ![Transformer Measurement Invariance](https://raw.githubusercontent.com/mistr3ated/AI-Psychometrics-Nigel/main/images/transformer_measurement_invariance.png)
 
